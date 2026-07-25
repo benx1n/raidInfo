@@ -1,0 +1,1865 @@
+[
+  {
+    "Difficulties": [
+      {
+        "Id": 1,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 229000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 2,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 458000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 3,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 916000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 4,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 1832000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 5,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 5392000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 6,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 12449600,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Pierce"
+      },
+      {
+        "Id": 7,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 18876000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Pierce"
+      },
+      {
+        "Id": 8,
+        "Difficulty": "Lunatic",
+        "DefaultClearScore": 17710000,
+        "MaximumScore": 10368000,
+        "PerSecondMinusScore": 28800,
+        "HPPercentScore": 25525000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Pierce"
+      }
+    ],
+    "RaidBossGroup": "Binah",
+    "RaidBossNickName": "比纳",
+    "Topography": "Outdoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 11,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 12,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 13,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 14,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 15,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 16,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Explosion"
+      },
+      {
+        "Id": 17,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Explosion"
+      }
+    ],
+    "RaidBossGroup": "Chesed",
+    "RaidBossNickName": "切赛德",
+    "Topography": "Indoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 21,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 22,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 23,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 24,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 25,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 26,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Pierce"
+      },
+      {
+        "Id": 27,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Pierce"
+      }
+    ],
+    "RaidBossGroup": "ShiroKuro",
+    "RaidBossNickName": "白&黑",
+    "Topography": "Street"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 31,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 32,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 33,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 34,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 35,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 36,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Explosion"
+      },
+      {
+        "Id": 37,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Explosion"
+      }
+    ],
+    "RaidBossGroup": "Hieronymus",
+    "RaidBossNickName": "希罗尼穆斯",
+    "Topography": "Indoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 41,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 229000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 42,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 458000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 43,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 916000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 44,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 1832000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 45,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 5392000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 46,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 12449600,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Pierce"
+      },
+      {
+        "Id": 47,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 18876000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Pierce"
+      }
+    ],
+    "RaidBossGroup": "Kaitenger",
+    "RaidBossNickName": "回转 FX Mk.0",
+    "Topography": "Outdoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 51,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 52,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 53,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 54,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 55,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 56,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 57,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Mystic"
+      }
+    ],
+    "RaidBossGroup": "Perorozilla",
+    "RaidBossNickName": "佩洛洛斯拉",
+    "Topography": "Indoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 61,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 62,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 63,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 64,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 65,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 66,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 67,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 68,
+        "Difficulty": "Lunatic",
+        "DefaultClearScore": 17710000,
+        "MaximumScore": 10368000,
+        "PerSecondMinusScore": 28800,
+        "HPPercentScore": 26315000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Mystic"
+      }
+    ],
+    "RaidBossGroup": "HOD",
+    "RaidBossNickName": "霍德",
+    "Topography": "Street"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 71,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 72,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 73,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 74,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 75,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 76,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Explosion"
+      },
+      {
+        "Id": 77,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Explosion"
+      },
+      {
+        "Id": 78,
+        "Difficulty": "Lunatic",
+        "DefaultClearScore": 17710000,
+        "MaximumScore": 10368000,
+        "PerSecondMinusScore": 28800,
+        "HPPercentScore": 26315000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Explosion"
+      }
+    ],
+    "RaidBossGroup": "Goz",
+    "RaidBossNickName": "格兹",
+    "Topography": "Indoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 81,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 82,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 83,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 84,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 85,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 86,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 87,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 88,
+        "Difficulty": "Lunatic",
+        "DefaultClearScore": 17710000,
+        "MaximumScore": 10368000,
+        "PerSecondMinusScore": 28800,
+        "HPPercentScore": 26315000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Mystic"
+      }
+    ],
+    "RaidBossGroup": "EN0005",
+    "RaidBossNickName": "格里高利",
+    "Topography": "Indoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1001,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 229000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1002,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 458000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1003,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 916000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1004,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 1832000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1005,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 5392000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1006,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 12449600,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Pierce"
+      },
+      {
+        "Id": 1007,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 18876000,
+        "BattleDuration": 180000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Pierce"
+      }
+    ],
+    "RaidBossGroup": "Binah_Street",
+    "RaidBossNickName": "比纳",
+    "Topography": "Street"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1011,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1012,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1013,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1014,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1015,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1016,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Explosion"
+      },
+      {
+        "Id": 1017,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Explosion"
+      }
+    ],
+    "RaidBossGroup": "Chesed_Outdoor",
+    "RaidBossNickName": "切赛德",
+    "Topography": "Outdoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1021,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1022,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1023,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1024,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1025,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1026,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Pierce"
+      },
+      {
+        "Id": 1027,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Pierce"
+      }
+    ],
+    "RaidBossGroup": "ShiroKuro_Indoor",
+    "RaidBossNickName": "白&黑",
+    "Topography": "Indoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1031,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1032,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1033,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1034,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1035,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1036,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Explosion"
+      },
+      {
+        "Id": 1037,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Explosion"
+      }
+    ],
+    "RaidBossGroup": "Hieronymus_Street",
+    "RaidBossNickName": "希罗尼穆斯",
+    "Topography": "Street"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1041,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 229000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1042,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 458000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1043,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 916000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1044,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 1832000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1045,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 5392000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1046,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 12449600,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Pierce"
+      },
+      {
+        "Id": 1047,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 18876000,
+        "BattleDuration": 180000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Pierce"
+      }
+    ],
+    "RaidBossGroup": "Kaitenger_Street",
+    "RaidBossNickName": "回转 FX Mk.0",
+    "Topography": "Street"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1051,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1052,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1053,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1054,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1055,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1056,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 1057,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 1058,
+        "Difficulty": "Lunatic",
+        "DefaultClearScore": 17710000,
+        "MaximumScore": 10368000,
+        "PerSecondMinusScore": 28800,
+        "HPPercentScore": 26315000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Mystic"
+      }
+    ],
+    "RaidBossGroup": "Perorozilla_Outdoor",
+    "RaidBossNickName": "佩洛洛斯拉",
+    "Topography": "Outdoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1061,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1062,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1063,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1064,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1065,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1066,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 1067,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Mystic"
+      }
+    ],
+    "RaidBossGroup": "HOD_Indoor",
+    "RaidBossNickName": "霍德",
+    "Topography": "Indoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1071,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1072,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1073,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1074,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1075,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1076,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Explosion"
+      },
+      {
+        "Id": 1077,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "Unarmed",
+        "BulletType": "Explosion"
+      }
+    ],
+    "RaidBossGroup": "Goz_Outdoor",
+    "RaidBossNickName": "格兹",
+    "Topography": "Outdoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1102201,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1102202,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1102203,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1102204,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1102205,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1102206,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Pierce"
+      },
+      {
+        "Id": 1102207,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Pierce"
+      },
+      {
+        "Id": 1102208,
+        "Difficulty": "Lunatic",
+        "DefaultClearScore": 17710000,
+        "MaximumScore": 10368000,
+        "PerSecondMinusScore": 28800,
+        "HPPercentScore": 26315000,
+        "BattleDuration": 240000,
+        "ArmorType": "HeavyArmor",
+        "BulletType": "Pierce"
+      }
+    ],
+    "RaidBossGroup": "HoverCraft",
+    "RaidBossNickName": "若藻（泳装）",
+    "Topography": "Outdoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1111401,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1111402,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1111403,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1111404,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1111405,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1111406,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 1111407,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 1111408,
+        "Difficulty": "Lunatic",
+        "DefaultClearScore": 17710000,
+        "MaximumScore": 10368000,
+        "PerSecondMinusScore": 28800,
+        "HPPercentScore": 26315000,
+        "BattleDuration": 240000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Mystic"
+      }
+    ],
+    "RaidBossGroup": "EN0006",
+    "RaidBossNickName": "黑影",
+    "Topography": "Street"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1122101,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 277000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1122102,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 554000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1122103,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1108000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1122104,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2216000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1122105,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6160000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1122106,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14216000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 1122107,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 19508000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Mystic"
+      },
+      {
+        "Id": 1122108,
+        "Difficulty": "Lunatic",
+        "DefaultClearScore": 17710000,
+        "MaximumScore": 10368000,
+        "PerSecondMinusScore": 28800,
+        "HPPercentScore": 26315000,
+        "BattleDuration": 240000,
+        "ArmorType": "LightArmor",
+        "BulletType": "Mystic"
+      }
+    ],
+    "RaidBossGroup": "EN0010",
+    "RaidBossNickName": "格武拉",
+    "Topography": "Outdoor"
+  },
+  {
+    "Difficulties": [
+      {
+        "Id": 1131401,
+        "Difficulty": "Normal",
+        "DefaultClearScore": 250000,
+        "MaximumScore": 432000,
+        "PerSecondMinusScore": 1200,
+        "HPPercentScore": 304700,
+        "BattleDuration": 270000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1131402,
+        "Difficulty": "Hard",
+        "DefaultClearScore": 500000,
+        "MaximumScore": 864000,
+        "PerSecondMinusScore": 2400,
+        "HPPercentScore": 609400,
+        "BattleDuration": 270000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1131403,
+        "Difficulty": "VeryHard",
+        "DefaultClearScore": 1000000,
+        "MaximumScore": 1728000,
+        "PerSecondMinusScore": 4800,
+        "HPPercentScore": 1218800,
+        "BattleDuration": 270000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1131404,
+        "Difficulty": "Hardcore",
+        "DefaultClearScore": 2000000,
+        "MaximumScore": 3456000,
+        "PerSecondMinusScore": 9600,
+        "HPPercentScore": 2437600,
+        "BattleDuration": 270000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1131405,
+        "Difficulty": "Extreme",
+        "DefaultClearScore": 4000000,
+        "MaximumScore": 5184000,
+        "PerSecondMinusScore": 14400,
+        "HPPercentScore": 6578880,
+        "BattleDuration": 270000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Normal"
+      },
+      {
+        "Id": 1131406,
+        "Difficulty": "Insane",
+        "DefaultClearScore": 6800000,
+        "MaximumScore": 6912000,
+        "PerSecondMinusScore": 19200,
+        "HPPercentScore": 14941016,
+        "BattleDuration": 270000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Explosion"
+      },
+      {
+        "Id": 1131407,
+        "Difficulty": "Torment",
+        "DefaultClearScore": 12200000,
+        "MaximumScore": 8640000,
+        "PerSecondMinusScore": 24000,
+        "HPPercentScore": 20302000,
+        "BattleDuration": 270000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Explosion"
+      },
+      {
+        "Id": 1131408,
+        "Difficulty": "Lunatic",
+        "DefaultClearScore": 17710000,
+        "MaximumScore": 10368000,
+        "PerSecondMinusScore": 28800,
+        "HPPercentScore": 26954000,
+        "BattleDuration": 270000,
+        "ArmorType": "ElasticArmor",
+        "BulletType": "Explosion"
+      }
+    ],
+    "RaidBossGroup": "EN0013",
+    "RaidBossNickName": "耶索德",
+    "Topography": "Street"
+  }
+]
