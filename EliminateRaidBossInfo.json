@@ -2691,7 +2691,7 @@
         "BulletType": "Pierce"
       },
       {
-        "IsOpen": true,
+        "IsOpen": false,
         "Id": 2023107,
         "Difficulty": "Torment",
         "DefaultClearScore": 12200000,
@@ -5421,7 +5421,8 @@
   },
   {
     "SeasonIndexes": {
-      "10": 0
+      "10": 0,
+      "22": 0
     },
     "Difficulties": [
       {
@@ -5515,7 +5516,8 @@
   },
   {
     "SeasonIndexes": {
-      "10": 1
+      "10": 1,
+      "22": 1
     },
     "Difficulties": [
       {
@@ -5685,7 +5687,7 @@
         "BulletType": "Explosion"
       },
       {
-        "IsOpen": true,
+        "IsOpen": false,
         "Id": 2041307,
         "Difficulty": "Torment",
         "DefaultClearScore": 12200000,
@@ -5702,7 +5704,9 @@
     "Topography": "Street"
   },
   {
-    "SeasonIndexes": {},
+    "SeasonIndexes": {
+      "22": 2
+    },
     "Difficulties": [
       {
         "IsOpen": true,
