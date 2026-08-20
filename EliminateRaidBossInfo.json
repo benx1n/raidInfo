@@ -1872,7 +1872,8 @@
   },
   {
     "SeasonIndexes": {
-      "7": 0
+      "7": 0,
+      "23": 0
     },
     "Difficulties": [
       {
@@ -2060,7 +2061,8 @@
   },
   {
     "SeasonIndexes": {
-      "7": 2
+      "7": 2,
+      "23": 1
     },
     "Difficulties": [
       {
@@ -2153,7 +2155,9 @@
     "Topography": "Outdoor"
   },
   {
-    "SeasonIndexes": {},
+    "SeasonIndexes": {
+      "23": 2
+    },
     "Difficulties": [
       {
         "IsOpen": true,
