@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "server": "CN",
-  "sourceVersion": "v3.0.2-202609291359",
-  "catalogSha256": "97215910ac02141dc72b8371f610b89166477d8ef3504a7358d72d0372dff365",
+  "sourceVersion": "v3.0.2-202610131015",
+  "catalogSha256": "4e6b85efe2887c027b09436da39e1c43fdf9b4f63c3cd6e512849bc5a90c7859",
   "generatorSha256": "9f5c8fd01f50fa946bd5990def0c4f3960e2e26d0dc70321134b8c1e095ec497"
 }

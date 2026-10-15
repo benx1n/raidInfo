@@ -275,7 +275,7 @@
         "BulletType": "Pierce"
       },
       {
-        "IsOpen": true,
+        "IsOpen": false,
         "Id": 2011307,
         "Difficulty": "Torment",
         "DefaultClearScore": 12200000,
@@ -755,7 +755,9 @@
     "Topography": "Outdoor"
   },
   {
-    "SeasonIndexes": {},
+    "SeasonIndexes": {
+      "25": 0
+    },
     "Difficulties": [
       {
         "IsOpen": true,
@@ -847,7 +849,9 @@
     "Topography": "Outdoor"
   },
   {
-    "SeasonIndexes": {},
+    "SeasonIndexes": {
+      "25": 2
+    },
     "Difficulties": [
       {
         "IsOpen": true,
@@ -1031,7 +1035,9 @@
     "Topography": "Outdoor"
   },
   {
-    "SeasonIndexes": {},
+    "SeasonIndexes": {
+      "25": 1
+    },
     "Difficulties": [
       {
         "IsOpen": true,
