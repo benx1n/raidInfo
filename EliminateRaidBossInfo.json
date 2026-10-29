@@ -2628,7 +2628,8 @@
   {
     "SeasonIndexes": {
       "4": 0,
-      "12": 0
+      "12": 0,
+      "26": 0
     },
     "Difficulties": [
       {
@@ -2704,7 +2705,7 @@
         "BulletType": "Pierce"
       },
       {
-        "IsOpen": false,
+        "IsOpen": true,
         "Id": 2023107,
         "Difficulty": "Torment",
         "DefaultClearScore": 12200000,
@@ -2819,7 +2820,8 @@
   {
     "SeasonIndexes": {
       "4": 2,
-      "21": 2
+      "21": 2,
+      "26": 2
     },
     "Difficulties": [
       {
@@ -2914,7 +2916,8 @@
   {
     "SeasonIndexes": {
       "12": 2,
-      "21": 1
+      "21": 1,
+      "26": 1
     },
     "Difficulties": [
       {
