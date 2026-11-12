@@ -5438,7 +5438,8 @@
   {
     "SeasonIndexes": {
       "10": 0,
-      "22": 0
+      "22": 0,
+      "27": 1
     },
     "Difficulties": [
       {
@@ -5514,7 +5515,7 @@
         "BulletType": "Explosion"
       },
       {
-        "IsOpen": false,
+        "IsOpen": true,
         "Id": 2041107,
         "Difficulty": "Torment",
         "DefaultClearScore": 12200000,
@@ -5627,7 +5628,8 @@
   },
   {
     "SeasonIndexes": {
-      "10": 2
+      "10": 2,
+      "27": 0
     },
     "Difficulties": [
       {
@@ -5703,7 +5705,7 @@
         "BulletType": "Explosion"
       },
       {
-        "IsOpen": false,
+        "IsOpen": true,
         "Id": 2041307,
         "Difficulty": "Torment",
         "DefaultClearScore": 12200000,
@@ -5721,7 +5723,8 @@
   },
   {
     "SeasonIndexes": {
-      "22": 2
+      "22": 2,
+      "27": 2
     },
     "Difficulties": [
       {
